@@ -1,0 +1,5 @@
+{
+    "title": "\u26a1 Concurrency in Actors: Powering Middleware-Infrastructure",
+    "description": "Understand how concurrency is handled within actors in Middleware-Infrastructure. Learn about thread safety, message passing, and asynchronous processing.",
+    "content": "Hey Code N Triplets! Welcome to episode 15, where we explore **Concurrency in Actors** within Middleware-Infrastructure. Concurrency is crucial for handling multiple tasks efficiently, and actors excel at this through thread-safe operations and asynchronous message passing. We'll discuss how our actors manage concurrent processes, ensure data integrity, and avoid common pitfalls like race conditions. Whether you're implementing concurrency in your own projects or curious about our approach, this video will provide valuable insights. Let's power up our understanding of concurrency with actors!"
+}

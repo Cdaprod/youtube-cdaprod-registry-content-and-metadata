@@ -1,0 +1,5 @@
+{
+    "title": "\ud83d\udccb Registering Items with Actor Methods in Middleware-Infrastructure",
+    "description": "Explore the programmatic functionality of registering items using actor methods within the registrar. Understand the underlying principles that make our system robust and scalable.",
+    "content": "Hey Code N Triplets! I'm David Cannan (Cdaprod), and welcome to episode 13 of our Middleware-Infrastructure series. Today, we're diving into the **programmatic functionality** of **registering items using actor methods** in our registrar. We'll break down how actors manage state, handle concurrency, and ensure reliable registration processes. Whether you're a developer looking to implement similar patterns or just curious about the internals of our system, this video will give you a clear and engaging overview. Let's get started and see how actor methods power our registrar!"
+}

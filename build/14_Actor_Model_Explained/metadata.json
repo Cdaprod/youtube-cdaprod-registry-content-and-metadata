@@ -1,0 +1,5 @@
+{
+    "title": "\ud83e\udd16 The Actor Model Explained: Foundations of Middleware-Infrastructure",
+    "description": "Delve into the Actor Model, the foundation of Middleware-Infrastructure. Learn how actors manage state and facilitate communication in a concurrent environment.",
+    "content": "Hello again, Code N Triplets! In episode 14, we're unpacking the **Actor Model**, the cornerstone of our Middleware-Infrastructure. Actors are fundamental in managing state and enabling communication in highly concurrent systems. We'll explore the basics of the Actor Model, how it differs from traditional object-oriented approaches, and why it's perfect for building scalable and resilient middleware. By the end of this video, you'll have a solid understanding of how actors work and why we've chosen this model for our project. Let's dive into the world of actors!"
+}

@@ -1,0 +1,5 @@
+{
+    "title": "\ud83d\udcca Entity Relationship Diagram (ERD) for Middleware-Infrastructure",
+    "description": "Visualize the relationships within Middleware-Infrastructure! We'll break down the Entity Relationship Diagram to show how components interact.",
+    "content": "Hi everyone! In this video, we're presenting the Entity Relationship Diagram (ERD) for Middleware-Infrastructure. This diagram illustrates the relationships between core entities like Registry, Plugin, Service, and Config. We'll explain how the Registry manages Services, how Plugins support Services, and how Configurations are associated with each Service. Understanding these relationships is key to comprehending how data is structured and managed within the system. Join me as we break down each entity and their interactions to get a clearer picture of Middleware-Infrastructure's data architecture."
+}
